@@ -4,5 +4,5 @@ This is for checking current weather status.
 
 starting
 
-    yarn
-    yarn dev
+    npm i
+    npm run dev
